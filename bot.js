@@ -13,7 +13,6 @@ let initialMessage = (`**react to give yourself a role.  **
 const roles = ["Game : LOL", "Game : Fortnite", "Game : PUBG", "Game : Minecraft"];
 const reactions = ["495908228337631232", "495908235727994933", "495908239263924224", "495908222863933440"];
 const botToken = process.env.BOT_TOKEN
-                     here https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token*/
 //Load up the bot... // AlphaCodes
 bot.login(botToken);
 
